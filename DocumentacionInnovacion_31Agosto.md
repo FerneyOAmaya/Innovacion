@@ -31,9 +31,10 @@ Evaluación 30%
 
 |Ítem | Porcentaje|
 |---|---|
+|Duración menor a 2 minutos| Si no cumple -0.5|
 |Título de la propuesta| Si no cumple -0.5|
 |Integrantes de la propuesta| Si no cumple -0.5|
 |Descripción clara del tema abordado| 10%|
 |Preparación del estudio primario de mercado| 20%|
-|Principales hallazgos del estudio primario de mercado|20%|
+|Descripción general de los resultados del estudio primario de mercado|20%|
 |Principales hallazgos del proceso de síntesis| 40%|
