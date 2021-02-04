@@ -3,7 +3,7 @@
 
 ## Cronograma del curso
 
-|Actividad|Fecha de entrega|Evaluación|
+|Actividad|Fecha de entrega|
 |---|---|
 |Selección e identificación del tema o problemática| 4 de Febrero|
 |Proyecto Github	| 11 de Febrero	|
